@@ -1,4 +1,4 @@
-iam working as an engineer
+eam working as an engineer
 due to local repo
 adress1
 editing the file for demo
@@ -8,4 +8,8 @@ git allows any condition
 git has more recursive
 git is different from svn
 git
+<<<<<<< HEAD
 kubernetes is good skill
+=======
+well and good
+>>>>>>> a32c3e2ae23612c77d8b75968ceba8aa4c7a5e2d
